@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "userId": 1,
+        "name": "John Doe",
+        "quotes": "Learning is fun!",
+        "nim": "123456",
+        "title": "My First Post",
+        "body": "This is the content of my first post."
+    },
+    {
+        "id": 2,
+        "userId": 2,
+        "name": "Jane Smith",
+        "quotes": "Never give up!",
+        "nim": "654321",
+        "title": "Another Post",
+        "body": "Here is some interesting content."
+    }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Anggota 1",
+    "nim": "215410072",
+    "kelas": "Informati 2",
+    "name": "Fransiskus A Tekege",
+    "quote": "I dont care whos doing batter than me, coz I'm doing better than I was last year. I'ts me agains me.",
+    "img": "https://raw.githubusercontent.com/Fransis96/Project-Mobile/main/img/profile01.png"
+  },{
+    "id": 2,
+    "title": "Anggota 3",
+    "nim": "205410201",
+    "kelas": "Informati 2",
+    "name": "Ridwan Makatita",
+    "quote": "Jangan pernah mengatakan sesuatu yang buruk terhadap diri sendiri, bahkan dalam bercanda. Karena alam bawa sadar akan meresponnya sebagai sebuah sugesti.",
+    "img": "https://raw.githubusercontent.com/Fransis96/Project-Mobile/main/img/profile02.jpg"
+  },{
+    "id": 3,
+    "title": "Anggota 2",
+    "nim": "245410097",
+    "kelas": "Informati 2",
+    "name": "Fiqri Abdi",
+    "quote": "Semoga semesta memperlakukan kita dengan baik.",
+    "img": "https://raw.githubusercontent.com/Fransis96/Project-Mobile/main/img/profile03.jpg"
+  }
+]
